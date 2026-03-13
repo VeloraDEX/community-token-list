@@ -15,6 +15,62 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dETH",
+      "name": "Delta ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dETH",
+      "name": "Delta ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dBNB",
+      "name": "Delta BNB",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 130,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dETH",
+      "name": "Delta ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dPOL",
+      "name": "Delta POL",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dETH",
+      "name": "Delta ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dETH",
+      "name": "Delta ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "symbol": "STETH",
       "name": "Lido Staked Ether",
