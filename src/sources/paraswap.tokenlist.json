@@ -45323,6 +45323,14 @@
     },
     {
       "chainId": 56,
+      "address": "0x6050D829F5a5E0eA758D8357DDcdeC1381699248",
+      "symbol": "wCC",
+      "name": "Wrapped Canton Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/71751/standard/wcc.jpg?1769157740"
+    },
+    {
+      "chainId": 56,
       "address": "0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
       "symbol": "aBNBc",
       "name": "Ankr BNB Reward Bearing Certificate",
