@@ -62,6 +62,14 @@
       "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
     },
     {
+      "chainId": 4663,
+      "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
+      "symbol": "dETH",
+      "name": "Delta ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.velora.xyz/token/dETH.svg"
+    },
+    {
       "chainId": 42161,
       "address": "0x0a0d53B6684C7B32B4cBeF5fE8483bFcc8406742",
       "symbol": "dETH",
