@@ -44729,5 +44729,13 @@
     "name": "ARBITRUM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/photo_2023-03-29_21.47.00.jpeg?1696516109"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE7E7E741C23a4767831A56A8C99F522c5aC1E7E7",
+    "symbol": "EV",
+    "name": "Everything",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39394.png"
   }
 ]
