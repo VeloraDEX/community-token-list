@@ -8,6 +8,14 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9201.png"
   },
   {
+  "chainId": 56,
+  "address": "0x2aC892caE423FeE5e4d45F7e1C713Cf141A9ec9E",
+  "decimals": 18,
+  "symbol": "HANURAM",
+  "name": "Hanuram",
+  "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fqa7qtupr0mw2bxni63dckh28joad&w=64&q=75"
+},
+  {
     "chainId": 56,
     "address": "0x73afC23510b40dcbEABc25fFBc8C2976eD9f950c",
     "symbol": "SAFLE",
