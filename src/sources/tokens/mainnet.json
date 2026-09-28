@@ -44729,5 +44729,13 @@
     "name": "ARBITRUM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/photo_2023-03-29_21.47.00.jpeg?1696516109"
+  },
+  {
+    "chainId": 1,
+    "address": "0x18162F5cf35647be0910F30B4466bE39295E4878",
+    "symbol": "LMEOW",
+    "name": "lmeow",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/lmeowdeployer/token-list/lmeow-assets/images/lmeow-256.png"
   }
 ]
