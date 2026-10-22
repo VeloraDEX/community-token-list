@@ -156,6 +156,14 @@
       "symbol": "wM",
       "decimals": 6,
       "logoURI": "https://cdn.prod.website-files.com/6762be5b6c55f4c330bf115d/677d33de58eccf5acd737690_%24SmartM%20Ellipse-p-500.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x623c84A5E04bF715018203334b0eFE41696eBC3E",
+      "symbol": "wDOOM",
+      "name": "Wrapped DOOM",
+      "decimals": 18,
+      "logoURI": "https://doomsday.network/static/doom-logo.svg"
     }
   ]
 }
